@@ -1564,12 +1564,12 @@ export const questions = [
   {
     question: "In Failure Mode and Effect Analysis (FMEA), the Risk Priority Number (RPN) is calculated as:",
     options: [
-      "Severity × Occurrence",
-      "Severity × Occurrence × Detection",
-      "Occurrence × Detection",
+      "Severity x Occurrence",
+      "Severity x Occurrence x Detection",
+      "Occurrence x Detection",
       "Severity + Occurrence + Detection"
     ],
-    answer: "Severity × Occurrence × Detection"
+    answer: "Severity x Occurrence x Detection"
   },
   {
     question: "Which of the following is NOT a benefit of rapid prototyping?",
