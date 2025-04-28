@@ -198,5 +198,506 @@ export const questions = [
       "Maximizing part count"
     ],
     answer: "Balancing cost, quality, and time"
+  },
+  {
+    question: "Which of the following best describes the \"double diamond\" model in design thinking?",
+    options: [
+      "Linear progression from problem to solution",
+      "Two cycles of divergent and convergent thinking: discover, define, develop, deliver",
+      "Focus only on prototyping",
+      "Emphasizes only user research"
+    ],
+    answer: "Two cycles of divergent and convergent thinking: discover, define, develop, deliver"
+  },
+  {
+    question: "In the context of product design, what is a \"wicked problem\"?",
+    options: [
+      "A problem with a single, clear solution",
+      "A problem that is easily solved by experts",
+      "A problem with incomplete, contradictory, and changing requirements",
+      "A problem that is only technical"
+    ],
+    answer: "A problem with incomplete, contradictory, and changing requirements"
+  },
+  {
+    question: "Which of the following is NOT a stage in the IDEO design process?",
+    options: [
+      "Empathize",
+      "Define",
+      "Analyze",
+      "Prototype"
+    ],
+    answer: "Analyze"
+  },
+  {
+    question: "What is the main purpose of a \"persona\" in user-centered design?",
+    options: [
+      "To define technical requirements",
+      "To represent a fictional user archetype for empathy and design focus",
+      "To list all possible users",
+      "To test manufacturing feasibility"
+    ],
+    answer: "To represent a fictional user archetype for empathy and design focus"
+  },
+  {
+    question: "The Kano model classifies customer needs into which of the following categories?",
+    options: [
+      "Essential, Optional, Redundant",
+      "Basic, Performance, Excitement",
+      "Technical, Aesthetic, Ergonomic",
+      "Primary, Secondary, Tertiary"
+    ],
+    answer: "Basic, Performance, Excitement"
+  },
+  {
+    question: "In Quality Function Deployment (QFD), what is the primary role of the \"House of Quality\"?",
+    options: [
+      "To estimate manufacturing costs",
+      "To translate customer requirements into engineering characteristics",
+      "To create marketing strategies",
+      "To analyze competitor products"
+    ],
+    answer: "To translate customer requirements into engineering characteristics"
+  },
+  {
+    question: "What is the main advantage of using morphological analysis in concept generation?",
+    options: [
+      "Reduces the number of ideas",
+      "Systematically explores all possible combinations of sub-solutions",
+      "Focuses only on existing solutions",
+      "Limits creativity"
+    ],
+    answer: "Systematically explores all possible combinations of sub-solutions"
+  },
+  {
+    question: "Which of the following best describes \"TRIZ\"?",
+    options: [
+      "A Western brainstorming method",
+      "A Russian theory for inventive problem solving based on patterns of innovation",
+      "A method for cost estimation",
+      "A user interview technique"
+    ],
+    answer: "A Russian theory for inventive problem solving based on patterns of innovation"
+  },
+  {
+    question: "What is the primary goal of Design for Assembly (DFA)?",
+    options: [
+      "Increase the number of parts",
+      "Minimize assembly cost and complexity",
+      "Focus on aesthetics",
+      "Ignore manufacturing constraints"
+    ],
+    answer: "Minimize assembly cost and complexity"
+  },
+  {
+    question: "In Failure Mode and Effect Analysis (FMEA), the Risk Priority Number (RPN) is calculated as:",
+    options: [
+      "Severity × Occurrence",
+      "Severity × Occurrence × Detection",
+      "Occurrence × Detection",
+      "Severity + Occurrence + Detection"
+    ],
+    answer: "Severity × Occurrence × Detection"
+  },
+  {
+    question: "Which of the following is NOT a benefit of rapid prototyping?",
+    options: [
+      "Quick feedback on design",
+      "Reduces need for physical models",
+      "Accelerates design iteration",
+      "Allows testing of form, fit, and function"
+    ],
+    answer: "Reduces need for physical models"
+  },
+  {
+    question: "What is the main difference between vertical and horizontal integration in system design?",
+    options: [
+      "Vertical integration connects subsystems through a shared interface; horizontal integration connects modules via a common platform",
+      "Vertical focuses on aesthetics; horizontal on function",
+      "Vertical is for software only; horizontal for hardware",
+      "There is no difference"
+    ],
+    answer: "Vertical integration connects subsystems through a shared interface; horizontal integration connects modules via a common platform"
+  },
+  {
+    question: "In robust design, which type of factors are intentionally varied to test product performance under real-world conditions?",
+    options: [
+      "Control factors",
+      "Noise factors",
+      "Signal factors",
+      "Economic factors"
+    ],
+    answer: "Noise factors"
+  },
+  {
+    question: "According to Ashby charts, which two material properties are most commonly plotted against each other for selection?",
+    options: [
+      "Cost vs. color",
+      "Strength vs. density",
+      "Hardness vs. ductility",
+      "Elasticity vs. thermal conductivity"
+    ],
+    answer: "Strength vs. density"
+  },
+  {
+    question: "What is the main purpose of a Pugh matrix in concept selection?",
+    options: [
+      "To generate new ideas",
+      "To systematically compare concepts against a baseline using weighted criteria",
+      "To estimate costs",
+      "To create personas"
+    ],
+    answer: "To systematically compare concepts against a baseline using weighted criteria"
+  },
+  {
+    question: "Which of the following is true about the spiral model of product development?",
+    options: [
+      "It is strictly linear and sequential",
+      "It allows for iterative prototyping and risk assessment at each stage",
+      "It ignores user feedback",
+      "It is only used in software design"
+    ],
+    answer: "It allows for iterative prototyping and risk assessment at each stage"
+  },
+  {
+    question: "What is the main function of a design brief?",
+    options: [
+      "To specify manufacturing processes",
+      "To outline the objectives, constraints, and criteria for a design project",
+      "To list all possible materials",
+      "To document patent claims"
+    ],
+    answer: "To outline the objectives, constraints, and criteria for a design project"
+  },
+  {
+    question: "Which of the following is NOT a principle of good industrial design according to Dieter Rams?",
+    options: [
+      "Innovative",
+      "Makes a product useful",
+      "Adds unnecessary ornamentation",
+      "Environmentally friendly"
+    ],
+    answer: "Adds unnecessary ornamentation"
+  },
+  {
+    question: "In the context of ergonomics, what is anthropometry?",
+    options: [
+      "The study of human motion",
+      "The measurement of human body dimensions for design",
+      "The study of user emotions",
+      "The measurement of product weight"
+    ],
+    answer: "The measurement of human body dimensions for design"
+  },
+  {
+    question: "What is the main purpose of benchmarking in product design?",
+    options: [
+      "To copy competitor products",
+      "To analyze and compare products to identify best practices and areas for improvement",
+      "To set manufacturing tolerances",
+      "To estimate costs"
+    ],
+    answer: "To analyze and compare products to identify best practices and areas for improvement"
+  },
+  {
+    question: "Which of the following best describes the \"voice of the customer\" (VOC)?",
+    options: [
+      "The technical requirements of a product",
+      "The explicit and implicit needs and expectations of the customer",
+      "The marketing slogan",
+      "The design team's opinion"
+    ],
+    answer: "The explicit and implicit needs and expectations of the customer"
+  },
+  {
+    question: "What is the main advantage of modular product architecture?",
+    options: [
+      "Reduces flexibility",
+      "Increases product variety and ease of upgrade",
+      "Increases manufacturing cost",
+      "Complicates maintenance"
+    ],
+    answer: "Increases product variety and ease of upgrade"
+  },
+  {
+    question: "In the context of patenting, what is \"prior art\"?",
+    options: [
+      "Art created before the 20th century",
+      "Any evidence that an invention is already known",
+      "A type of design patent",
+      "A manufacturing process"
+    ],
+    answer: "Any evidence that an invention is already known"
+  },
+  {
+    question: "Which of the following is NOT a requirement for utility patentability?",
+    options: [
+      "Novelty",
+      "Non-obviousness",
+      "Usefulness",
+      "Low cost"
+    ],
+    answer: "Low cost"
+  },
+  {
+    question: "What is the main difference between a design patent and a utility patent?",
+    options: [
+      "Design patents protect function; utility patents protect appearance",
+      "Design patents protect ornamental design; utility patents protect function",
+      "Both protect only software",
+      "There is no difference"
+    ],
+    answer: "Design patents protect ornamental design; utility patents protect function"
+  },
+  {
+    question: "In TRIZ, what is the \"contradiction matrix\" used for?",
+    options: [
+      "To identify cost-saving opportunities",
+      "To suggest inventive principles for resolving technical contradictions",
+      "To create personas",
+      "To select materials"
+    ],
+    answer: "To suggest inventive principles for resolving technical contradictions"
+  },
+  {
+    question: "What is the primary goal of Design for Environment (DfE)?",
+    options: [
+      "Minimize environmental impact across the product lifecycle",
+      "Reduce assembly time",
+      "Increase product weight",
+      "Ignore end-of-life issues"
+    ],
+    answer: "Minimize environmental impact across the product lifecycle"
+  },
+  {
+    question: "Which of the following is a key characteristic of a \"breakthrough product\"?",
+    options: [
+      "Incremental improvement",
+      "Creates new markets or redefines existing ones",
+      "Only reduces cost",
+      "Is always a digital product"
+    ],
+    answer: "Creates new markets or redefines existing ones"
+  },
+  {
+    question: "In the context of smart products, what is \"addressability\"?",
+    options: [
+      "The ability to sense environmental changes",
+      "The ability to be uniquely identified and communicated with on a network",
+      "The ability to store data",
+      "The ability to be manufactured cheaply"
+    ],
+    answer: "The ability to be uniquely identified and communicated with on a network"
+  },
+  {
+    question: "What is the main function of a \"control factor\" in a design of experiments (DOE)?",
+    options: [
+      "A variable that is intentionally held constant",
+      "A variable that is intentionally varied to study its effect on performance",
+      "A variable that is ignored",
+      "A variable that is only aesthetic"
+    ],
+    answer: "A variable that is intentionally varied to study its effect on performance"
+  },
+  {
+    question: "In the House of Quality, what is the \"roof\" used for?",
+    options: [
+      "To list customer requirements",
+      "To show relationships between engineering characteristics",
+      "To display competitor analysis",
+      "To summarize costs"
+    ],
+    answer: "To show relationships between engineering characteristics"
+  },
+  {
+    question: "What is the main advantage of using a Gantt chart in project management?",
+    options: [
+      "It estimates material properties",
+      "It visually displays the timing and sequence of project tasks",
+      "It calculates stress-strain",
+      "It generates patents"
+    ],
+    answer: "It visually displays the timing and sequence of project tasks"
+  },
+  {
+    question: "Which of the following is NOT a benefit of Design for Manufacturability (DFM)?",
+    options: [
+      "Reduced production cost",
+      "Improved product quality",
+      "Increased assembly complexity",
+      "Shorter development time"
+    ],
+    answer: "Increased assembly complexity"
+  },
+  {
+    question: "What is the main purpose of ethnographic research in design?",
+    options: [
+      "To observe and understand user behaviors and contexts",
+      "To test material properties",
+      "To analyze manufacturing costs",
+      "To develop patents"
+    ],
+    answer: "To observe and understand user behaviors and contexts"
+  },
+  {
+    question: "Which of the following is a key deliverable of the embodiment design phase?",
+    options: [
+      "Finalized marketing strategy",
+      "Preliminary layouts, selection of materials, and key dimensions",
+      "Patent application",
+      "Manufacturing instructions"
+    ],
+    answer: "Preliminary layouts, selection of materials, and key dimensions"
+  },
+  {
+    question: "What is the primary purpose of a design notebook?",
+    options: [
+      "To record all design decisions, sketches, and calculations as a legal record",
+      "To store marketing materials",
+      "To list only final designs",
+      "To document competitor products"
+    ],
+    answer: "To record all design decisions, sketches, and calculations as a legal record"
+  },
+  {
+    question: "Which of the following is a limitation of brainstorming as a creative tool?",
+    options: [
+      "Encourages wild ideas",
+      "Can lead to groupthink or dominance by vocal members",
+      "Generates many ideas",
+      "Is always structured"
+    ],
+    answer: "Can lead to groupthink or dominance by vocal members"
+  },
+  {
+    question: "What is the main advantage of using CAD in detail design?",
+    options: [
+      "Only for making presentations",
+      "Enables precise modeling, simulation, and easy modifications",
+      "Increases time to market",
+      "Is only useful for 2D drawings"
+    ],
+    answer: "Enables precise modeling, simulation, and easy modifications"
+  },
+  {
+    question: "In project planning, what is a \"critical path\"?",
+    options: [
+      "The sequence of tasks that determines the minimum project duration",
+      "The path with the most tasks",
+      "The path with the least cost",
+      "The path with the most resources"
+    ],
+    answer: "The sequence of tasks that determines the minimum project duration"
+  },
+  {
+    question: "Which of the following is NOT a common cause of design failure in products?",
+    options: [
+      "Poor communication between teams",
+      "Lack of user research",
+      "Over-reliance on prototyping",
+      "Ignoring manufacturability"
+    ],
+    answer: "Over-reliance on prototyping"
+  },
+  {
+    question: "In the context of value engineering, what is the \"value index\"?",
+    options: [
+      "Cost divided by function",
+      "Function divided by cost",
+      "Cost minus function",
+      "Function plus cost"
+    ],
+    answer: "Function divided by cost"
+  },
+  {
+    question: "What is the main purpose of a \"control drawing\" in industrial design?",
+    options: [
+      "To specify manufacturing tolerances",
+      "To communicate key dimensions, materials, and finishes for production",
+      "To show marketing concepts",
+      "To display only aesthetic features"
+    ],
+    answer: "To communicate key dimensions, materials, and finishes for production"
+  },
+  {
+    question: "Which of the following is a key factor in selecting materials for sustainable design?",
+    options: [
+      "Only color",
+      "Recyclability and environmental impact",
+      "Brand name",
+      "Country of origin"
+    ],
+    answer: "Recyclability and environmental impact"
+  },
+  {
+    question: "What is the main function of a \"use case\" in system design?",
+    options: [
+      "To describe a specific way a user interacts with a system to achieve a goal",
+      "To list all possible errors",
+      "To define manufacturing steps",
+      "To create marketing slogans"
+    ],
+    answer: "To describe a specific way a user interacts with a system to achieve a goal"
+  },
+  {
+    question: "In the context of IoT, which of the following is NOT a typical layer in the architecture?",
+    options: [
+      "Perception layer",
+      "Network layer",
+      "Application layer",
+      "Ergonomics layer"
+    ],
+    answer: "Ergonomics layer"
+  },
+  {
+    question: "What is the main reason for using orthogonal arrays in DOE?",
+    options: [
+      "To maximize the number of experiments",
+      "To efficiently study the effects of multiple factors with a reduced number of experiments",
+      "To focus only on one factor at a time",
+      "To ignore interactions"
+    ],
+    answer: "To efficiently study the effects of multiple factors with a reduced number of experiments"
+  },
+  {
+    question: "Which of the following is a key outcome of a successful FMEA process?",
+    options: [
+      "Identification and prioritization of potential failure modes and their mitigation",
+      "Increased product cost",
+      "Elimination of all testing",
+      "Focus on aesthetics only"
+    ],
+    answer: "Identification and prioritization of potential failure modes and their mitigation"
+  },
+  {
+    question: "In the context of patent law, what is \"defensive disclosure\"?",
+    options: [
+      "Keeping an invention secret",
+      "Publicly disclosing an invention to prevent others from patenting it",
+      "Filing a design patent",
+      "Filing a PCT application"
+    ],
+    answer: "Publicly disclosing an invention to prevent others from patenting it"
+  },
+  {
+    question: "What is the main purpose of a \"design freeze\"?",
+    options: [
+      "To allow unlimited changes",
+      "To lock the design at a certain point to prevent further changes and enable production",
+      "To stop manufacturing",
+      "To begin user research"
+    ],
+    answer: "To lock the design at a certain point to prevent further changes and enable production"
+  },
+  {
+    question: "Which of the following best describes \"affective design\"?",
+    options: [
+      "Design that focuses on technical function only",
+      "Design that considers the emotional impact and experience of the user",
+      "Design for manufacturing",
+      "Design for cost minimization"
+    ],
+    answer: "Design that considers the emotional impact and experience of the user"
   }
+
 ];
