@@ -69,9 +69,15 @@ body {
   .newar {
     font-weight: bold;
     font-size: 24px;
+    text-decoration: none;
     color: #4CAF50;
 }
 
 .credits {
     color: #5775a6;
+}
+
+.headername {
+  text-align: center;
+  color: gray;
 }
